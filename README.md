@@ -10,4 +10,4 @@ Each problem folder contains my notes and solution code.
 
 | # | Problem | Difficulty | Category | Date | Status |
 |---|---------|-----------|----------|------|--------|
-| 1 | [Two Sum](array/two-sum) | Easy | Array | 2026-08-03 | ✅ |
+| 1 | [Two Sum](Array/two-sum) | Easy | Array | 2026-08-03 | ✅ |
