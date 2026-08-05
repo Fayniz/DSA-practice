@@ -1,4 +1,4 @@
-```markdown
+
 ## [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 **Difficulty:** Easy
 **Topics:** Linked List
@@ -30,5 +30,4 @@ Output: []
 
 ### Follow-up
 A linked list can be reversed either iteratively or recursively. Could you implement both?
-```
 
