@@ -1,9 +1,9 @@
 # DSA Practice
 
-My LeetCode practice log — solutions, notes, and what I learned from each problem.
+My LeetCode practice log
 
 ## How this repo is organized
-Problems are grouped by category (matching LeetCode's own tags). 
+Problems are grouped by category. 
 Each problem folder contains my notes and solution code.
 
 ## Progress Tracker
