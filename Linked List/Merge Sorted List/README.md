@@ -1,4 +1,4 @@
-```markdown
+
 # [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 **Difficulty:** Easy
 
@@ -30,4 +30,3 @@ Output: [0]
 - The number of nodes in both lists is in the range `[0, 50]`.
 - `-100 <= Node.val <= 100`
 - Both `list1` and `list2` are sorted in non-decreasing order.
-```
