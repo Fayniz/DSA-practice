@@ -8,7 +8,9 @@ Each problem folder contains my notes and solution code.
 ## Progress Tracker
 | # | Problem | Difficulty | Category | Date | Status |
 |---|---------|-----------|----------|------|--------|
-| 1 | [Two Sum](Array/two-sum) | Easy | Array | 2026-08-03 | ✅ |
-| 2 | [Reverse Linked List](Linked-List/Reverse-Linked-List) | Easy | Linked List | 2026-08-05 | ✅ |
-| 3 | [Merge Sorted List](Linked-List/Merge-Sorted-List) | Easy | Linked List | 2026-08-07 | ✅ |
-| 4 | [Linked List Cycle](Linked-List/Linked-List-Cycle) | Easy | Linked List | 2026-08-07 | ✅ |
+| 1 | [Two Sum](Array/1-Two-sum) | Easy | Array | 2026-08-03 | ✅ |
+| 206 | [Reverse Linked List](Linked-List/206-Reverse-Linked-List) | Easy | Linked List | 2026-08-05 | ✅ |
+| 21 | [Merge Two Sorted Lists](Linked-List/21-Merge-Sorted-List) | Easy | Linked List | 2026-08-07 | ✅ |
+| 141 | [Linked List Cycle](Linked-List/141-Linked-List-Cycle) | Easy | Linked List | 2026-08-07 | ✅ |
+| 19 | [Remove Nth Node From End](Linked-List/19-Delete-Nth-From-End) | Medium | Linked List | 2026-08-07 | ✅ |
+| 876 | [Middle of the Linked List](Linked-List/876-Middle-Linked-List) | Easy | Linked List | 2026-08-08 | ✅ |
