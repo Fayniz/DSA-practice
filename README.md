@@ -9,5 +9,6 @@ Each problem folder contains my notes and solution code.
 | # | Problem | Difficulty | Category | Date | Status |
 |---|---------|-----------|----------|------|--------|
 | 1 | [Two Sum](Array/two-sum) | Easy | Array | 2026-08-03 | ✅ |
-| 2 | [Reverse Linked List](Linked-List/reverse-linked-list) | Easy | Linked List | 2026-08-05 | ✅ |
-| 3 | [Merge Sorted List](Linked-List/merge-sorted-list) | Easy | Linked List | 2026-08-07 | ✅ |
+| 2 | [Reverse Linked List](Linked-List/Reverse-Linked-List) | Easy | Linked List | 2026-08-05 | ✅ |
+| 3 | [Merge Sorted List](Linked-List/Merge-Sorted-List) | Easy | Linked List | 2026-08-07 | ✅ |
+| 4 | [Linked List Cycle](Linked-List/Linked-List-Cycle) | Easy | Linked List | 2026-08-07 | ✅ |
