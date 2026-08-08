@@ -17,3 +17,4 @@ Each problem folder contains my notes and solution code.
 | 136 | [Single Number](Bit-Manipulation/136-Single-num) | Easy | Bit Manipulation | 2026-08-08 | ✅ |
 | 191 | [Number Of 1's](Bit-Manipulation/191-Number-of-1's) | Easy | Bit Manipulation | 2026-08-08 | ✅ |
 | 268 | [Missing Number](Bit-Manipulation/268-Missing-Number) | Easy | Bit Manipulation | 2026-08-08 | ✅ |
+| 190 | [Reverse Bits](Bit-Manipulation/190-Reverse-Bits) | Easy | Bit Manipulation | 2026-08-08 | ✅ |
