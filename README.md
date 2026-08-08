@@ -15,4 +15,4 @@ Each problem folder contains my notes and solution code.
 | 19 | [Remove Nth Node From End](Linked-List/19-Delete-Nth-From-End) | Medium | Linked List | 2026-08-07 | ✅ |
 | 876 | [Middle of the Linked List](Linked-List/876-Middle-Linked-List) | Easy | Linked List | 2026-08-08 | ✅ |
 | 136 | [Single Number](Bit-Manipulation/136-Single-num) | Easy | Bit Manipulation | 2026-08-08 | ✅ |
-| 191 | [Single Number](Bit-Manipulation/191-Number-of-1's) | Easy | Bit Manipulation | 2026-08-08 | ✅ |
+| 191 | [Number Of 1's](Bit-Manipulation/191-Number-of-1's) | Easy | Bit Manipulation | 2026-08-08 | ✅ |
