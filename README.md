@@ -14,3 +14,4 @@ Each problem folder contains my notes and solution code.
 | 141 | [Linked List Cycle](Linked-List/141-Linked-List-Cycle) | Easy | Linked List | 2026-08-07 | ✅ |
 | 19 | [Remove Nth Node From End](Linked-List/19-Delete-Nth-From-End) | Medium | Linked List | 2026-08-07 | ✅ |
 | 876 | [Middle of the Linked List](Linked-List/876-Middle-Linked-List) | Easy | Linked List | 2026-08-08 | ✅ |
+| 136 | [Single Number](Bit-Manipulation/136-Single-num) | Easy | Bit Manipulation | 2026-08-08 | ✅ |
